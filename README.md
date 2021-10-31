@@ -1,4 +1,4 @@
-## Olá, eu sou o Murillo, estou atualmente estudando Front-End e Web Design.
+## Oi, eu sou o milliro
 
   <div align="center">
     <a href="https://github.com/milliro">
