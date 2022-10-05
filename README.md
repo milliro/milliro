@@ -1,4 +1,4 @@
-## Oi, eu sou o mërillo
+## Oi, eu sou o Murillo
 
   <div align="center">
     <a href="https://github.com/milliro">
